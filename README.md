@@ -1,1 +1,1 @@
-# Auto-Correction-Quiz-Application
+# Quiz-Application
